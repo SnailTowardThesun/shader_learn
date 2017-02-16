@@ -1,2 +1,3 @@
 # shader_learn
-learning shader
+
+notes and projects in shader learning
